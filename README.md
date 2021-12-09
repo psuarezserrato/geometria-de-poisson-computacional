@@ -1,2 +1,2 @@
 # geometria-de-poisson-computacional
-Tutorial para aprender a usar los modulos PoissonGeometry y NumPoissonGeometry de geometría de Poisson Computacional, presentado en la conferencia [Sistemas Hamiltonianos: Aplicaciones y Teoría](https://sites.google.com/view/mexican-hat-2021/inicio), Diciembre 2021.
+Tutorial para aprender a usar los modulos [PoissonGeometry](https://github.com/appliedgeometry/poissongeometry) y [NumericalPoissonGeometry](https://github.com/appliedgeometry/NumericalPoissonGeometry) de geometría de Poisson computacional, presentado en la conferencia [Sistemas Hamiltonianos: Aplicaciones y Teoría](https://sites.google.com/view/mexican-hat-2021/inicio), Diciembre 8, 2021.
